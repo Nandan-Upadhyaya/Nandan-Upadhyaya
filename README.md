@@ -1,44 +1,19 @@
-## Hi there 👋
-
-<!--
-**Nandan-Upadhyaya/Nandan-Upadhyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi 👋, I'm Nandan Upadhyaya
-
 A passionate Engineer interested in the Data Science Domain
 
-- 🔭 I’m currently working on **Food Ordering Management System**
+- 🔭 I'm currently working on **Food Ordering Management System**
 - 🔭 I worked on a deep- transfer learning project in a startup and achieved almost 99% accuracy in image classification.
 - 🔭 Interested to explore further on the machine learning, deep learning and nlp domains and also interested in web development.
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I'm currently learning **Power BI**
 - 🤝 Eager to collaborate on **Data Science projects**
-
 - 📫 How to reach me: [nandanupadhyaya18@gmail.com](mailto:nandanupadhyaya18@gmail.com)
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](hhttps://linkedin.com/in/nandan-upadhyaya-b15385247)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/nandan-upadhyaya-b15385247)
 
 # GitHub Activity
+![Commits](https://img.shields.io/github/commit-activity/m/Nandan-Upadhyaya?logo=github&style=flat)
 
-- ![Commits](https://img.shields.io/github/commit-activity/m/Nandan-Upadhyaya?logo=github&style=flat)
-- ![Pull Requests](https://img.shields.io/github/issues-pr/Nandan-Upadhyaya/Food-ordering-and-MS?logo=github&style=flat)
-- ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/Nandan-Upadhyaya/Food-ordering-and-MS?logo=github&style=flat)
-- ![Open Issues](https://img.shields.io/github/issues/Nandan-Upadhyaya/Food-ordering-and-MS?logo=github&style=flat)
-- ![Contributions](https://img.shields.io/github/last-commit/Nandan-Upadhyaya/Food-ordering-and-MS?logo=github&style=flat)
-
-  
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=flat)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&style=flat)
