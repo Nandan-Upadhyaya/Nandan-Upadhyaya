@@ -33,11 +33,10 @@ A passionate Engineer interested in the Data Science Domain
 # GitHub Activity
 
 - ![Commits](https://img.shields.io/github/commit-activity/m/Nandan-Upadhyaya?logo=github&style=flat)
-- ![Pull Requests](https://img.shields.io/github/issues-pr//Nandan-Upadhyaya/your-repository-name?logo=github&style=flat)
-- ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed//Nandan-Upadhyaya/your-repository-name?logo=github&style=flat)
-- ![Contributions](https://img.shields.io/github/last-commit//Nandan-Upadhyaya?logo=github&style=flat)
-- ![Open Issues](https://img.shields.io/github/issues//Nandan-Upadhyaya/your-repository-name?logo=github&style=flat)
-
+- ![Pull Requests](https://img.shields.io/github/issues-pr/Nandan-Upadhyaya/Food-ordering-and-MS?logo=github&style=flat)
+- ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/Nandan-Upadhyaya/Food-ordering-and-MS?logo=github&style=flat)
+- ![Open Issues](https://img.shields.io/github/issues/Nandan-Upadhyaya/Food-ordering-and-MS?logo=github&style=flat)
+- ![Contributions](https://img.shields.io/github/last-commit/Nandan-Upadhyaya/Food-ordering-and-MS?logo=github&style=flat)
 
   
 ## Languages and Tools:
