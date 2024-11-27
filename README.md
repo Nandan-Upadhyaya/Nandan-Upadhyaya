@@ -16,13 +16,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nandan-upadhyaya-b15385247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandan upadhyaya" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Nandan_Upadhyaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nandan_Upadhyaya" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/nandanupa36pz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nandan_Upadhyaya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nandan-upadhyaya-b15385247" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandan upadhyaya" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/Nandan_Upadhyaya/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nandan_Upadhyaya" height="30" width="40" />
+</a>
+
 <a href="https://www.geeksforgeeks.org/user/nandanupa36pz/" target="_blank">
   <img align="center" src="https://img.icons8.com/ios/452/geeks-for-geeks.png" alt="Nandan_Upadhyaya" height="30" width="40" />
 </a>
-  <a href="https://www.hackerrank.com/profile/nandanupadhyaya1" target="_blank">
+
+<a href="https://www.hackerrank.com/profile/nandanupadhyaya1" target="_blank">
   <img align="center" src="https://img.icons8.com/ios/452/hackerrank.png" alt="Nandan_Upadhyaya" height="30" width="40" />
 </a>
 </p>
