@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi 👋, I'm Nandan Upadhyaya
+
+A passionate Engineer interested in the Data Science Domain
+
+- 🔭 I’m currently working on **Food Ordering Management System**
+- 🔭 I worked on a deep- transfer learning project in a startup and achieved almost 99% accuracy in image classification.
+- 🔭 Interested to explore further on the machine learning, deep learning and nlp domains and also interested in web development.
+- 🌱 I’m currently learning **Power BI**
+- 🤝 Eager to collaborate on **Data Science projects**
+
+- 📫 How to reach me: [nandanupadhyaya18@gmail.com](mailto:nandanupadhyaya18@gmail.com)
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](hhttps://linkedin.com/in/nandan-upadhyaya-b15385247)
+
+ ![Commits](https://img.shields.io/github/commit-activity/m/nandanupadhyaya?logo=github&style=flat)
+- ![Pull Requests](https://img.shields.io/github/issues-pr/nandanupadhyaya/your-repository-name?logo=github&style=flat)
+- ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/nandanupadhyaya/your-repository-name?logo=github&style=flat)
+- ![Contributions](https://img.shields.io/github/last-commit/nandanupadhyaya?logo=github&style=flat)
+- ![Open Issues](https://img.shields.io/github/issues/nandanupadhyaya/your-repository-name?logo=github&style=flat)
+  
+## Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=flat)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&style=flat)
+![C](https://img.shields.io/badge/-C-black?logo=c&style=flat)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=flat)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&style=flat)
