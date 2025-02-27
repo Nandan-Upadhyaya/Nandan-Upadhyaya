@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nandan-Upadhyaya" alt="Nandan-Upadhyaya" /></a> </p>
 
-- 🔭 I’m currently working on **Synthetic Aperture Radar (SAR) images colorization using Cycle Generative Adversarial Networks (Cycle-GAN)**
+- 🔭 I’m currently working on **Synthetic Aperture Radar (SAR) images colorization using Generative Adversarial Networks (GAN)**
 
 - 🌱 Exploring current technologies and trends.
 
