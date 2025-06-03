@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nandan-Upadhyaya" alt="Nandan-Upadhyaya" /></a> </p>
 
-- 🔭 I’m currently working on **WaterMark GAN : A Comprehensive Framework for Text-based Image Synthesis, Quality Analysis and Watermark Embedding**
+- 🔭 I’m currently working on **WatermarkGAN : A Comprehensive Framework for Text-based Image Synthesis, Quality Analysis and Watermark Embedding**
 
 - 🌱 Exploring current technologies and trends.
 
