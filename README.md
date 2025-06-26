@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **nandanupadhyaya18@gmail.com**
 
-- 📫 My Resume **nandanupadhyaya18@gmail.com**  
+- 📄 Download My Resume: [Click Here](https://github.com/Nandan-Upadhyaya/Nandan-Upadhyaya/raw/main/Nandan_Upadhyaya_NNM22AD033.pdf)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
