@@ -100,4 +100,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandan-Upadhyaya&show_icons=true&locale=en" alt="Nandan-Upadhyaya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandan-Upadhyaya&" alt="Nandan-Upadhyaya" /></p>
