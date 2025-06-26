@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandan Upadhyaya</h1>
-<h3 align="center">Passionate in the Data Science Domain</h3>
+<h3 align="center">Aspiring Machine Learning Engineer with a strong foundation in computer science, statistics, and deep learning, passionate about developing innovative, data-driven solutions in the fields of ML, NLP, GANs, and AI, with proficiency in frameworks like PyTorch and TensorFlow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandan-Upadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan-Upadhyaya" /> </p>
 
