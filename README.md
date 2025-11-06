@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandan-Upadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="Nandan-Upadhyaya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nandan-Upadhyaya" alt="Nandan-Upadhyaya" /></a> </p>
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nandan-Upadhyaya" alt="Nandan-Upadhyaya" />
+  </a>
+</p>
 - 🔭 I’m currently working on **WatermarkGAN : A Comprehensive Framework for Text-based Image Synthesis, Quality Analysis and Watermark Embedding**
 
 - 🌱 Exploring current technologies and trends.
